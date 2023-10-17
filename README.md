@@ -9,3 +9,10 @@ smx2b@turing-117: cd WordPress
 smx2b@turing-117: vagrant init ubuntu/jammy64
 ```
 podemos utilizar el comando **ll** par comprobar todo los permisos y archivos.
+
+3. Una vez hecho, ahora creamos la infraestructura con el siguiente comando
+´´´console 
+smx2b@turing-117: vagrant up --provider=virtualbox
+´´´
+
+
