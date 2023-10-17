@@ -8,4 +8,4 @@ smx2b@turing-117: cd WordPress
 ```console
 smx2b@turing-117: vagrant init ubuntu/jammy64
 ```
-podemos utilizar el comando <b>ll par comprobar todo los permisos y archivos.
+podemos utilizar el comando **ll** par comprobar todo los permisos y archivos.
